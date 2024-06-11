@@ -1,0 +1,6 @@
+# _config.yml
+menu:
+  Home: /
+  Archives: /archives
+
+# Añade aquí más configuraciones según necesites
